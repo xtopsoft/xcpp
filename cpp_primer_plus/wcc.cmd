@@ -1,4 +1,7 @@
-@echo off 
+@echo on 
+
+set tomake=^/cl
+if "%2" equ "%tomake%" goto make
 
 if defined VS140COMNTOOLS goto vs2015 else if defined VS120COMNTOOLS goto vs2013 else if defined VS110COMNTOOLS goto vs2012 else goto novs
 
@@ -23,7 +26,7 @@ goto end
 
 :make
 echo begin make!
-cl /EHsc /nologo %1 /Fo:bin\%~n1.obj /Fe:bin\%~n1.exe
+cl /EHsc %1 /Fo:bin\%~n1.obj /Fe:bin\%~n1.exe
 
 echo done!
 
