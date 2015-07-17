@@ -23,7 +23,5 @@ int main()
 	const date *datep[3] = {&d1, &d2, &d3};
 	std::cout << datep[1]->year << std::endl;
 
-	
-
 	return 0;
 }
