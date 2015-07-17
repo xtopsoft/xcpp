@@ -80,6 +80,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="src\ch04_ex01_arrayone.cc" />
+    <ClCompile Include="src\ch04_ex02_strings.cc" />
+    <ClCompile Include="src\ch04_ex03_instr1.cc" />
+    <ClCompile Include="src\ch04_ex23_mixtypes.cc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

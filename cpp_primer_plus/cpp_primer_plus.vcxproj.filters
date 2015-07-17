@@ -14,4 +14,18 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\ch04_ex23_mixtypes.cc">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch04_ex01_arrayone.cc">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch04_ex02_strings.cc">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch04_ex03_instr1.cc">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>

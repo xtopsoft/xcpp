@@ -1,7 +1,6 @@
-@echo on 
+@echo off 
 
-set tomake=^/cl
-if "%2" equ "%tomake%" goto make
+if "%2" equ "/m" goto make
 
 if defined VS140COMNTOOLS goto vs2015 else if defined VS120COMNTOOLS goto vs2013 else if defined VS110COMNTOOLS goto vs2012 else goto novs
 
