@@ -11,7 +11,7 @@ int main()
 	yams[2] = 6;
 
 	// yams price per package
-	int yamcosts[3] = { 20, 30, 5 };
+	int yamcosts[] { 20, 30, 5 };
 
 	// total yams
 	cout << "Total yams = " << yams[0] + yams[1] + yams[2] << endl;
