@@ -15,3 +15,18 @@ C++ 扩展名
 |UNIX	|C, cc, cxx, c	|h	|
 |Linux	|C, cc, cxx, cpp, c++	|h	|
 |VC++	|cpp, cxx, cc	|h	|
+
+C++ 编译方式
+--------------------------------------------------------------------------------
+
+###UNIX
+CC hello.cc
+
+###Linux
+g++ hello.cc
+
+###VC++
+- IDE
+- vsvars32.bat
+  cl hello.cc
+
