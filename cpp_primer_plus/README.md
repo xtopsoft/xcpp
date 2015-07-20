@@ -32,6 +32,7 @@ g++ hello.cc
 
 C++ 指定源文件编码
 --------------------------------------------------------------------------------
-g++ -finput-charset=UTF-16 hello.cc
-vc 仅仅支持ascii码
+- g++ -finput-charset=UTF-16 hello.cc
+- vc 仅仅支持ascii码
 
+test
