@@ -27,6 +27,6 @@ g++ hello.cc
 
 ###VC++
 - IDE
-- vsvars32.bat\
+- vsvars32.bat<br>
   cl hello.cc
 
