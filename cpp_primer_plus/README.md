@@ -49,6 +49,7 @@ ch02
 > My name is Tome.<br>
 > I address at New York.<br>
 >
+[source](src/ch02_ex01_myinfo.cc)
 
 ###ex02 furlong2yard.cc
 > How long in furlongs : ***2.0***<br>
