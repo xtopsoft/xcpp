@@ -33,5 +33,23 @@
     <ClCompile Include="src\ch02_ex01_myinfo.cc">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="src\ch02_ex02_furlong2yard.cc">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch02_ex03_func.cc">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch02_ex04_age.cc">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch02_ex05_celsius2fahrenheit.cc">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch02_ex06_lightyear2astronomical.cc">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch02_ex07_time.cc">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

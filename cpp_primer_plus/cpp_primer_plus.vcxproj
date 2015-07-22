@@ -81,6 +81,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="src\ch02_ex01_myinfo.cc" />
+    <ClCompile Include="src\ch02_ex02_furlong2yard.cc" />
+    <ClCompile Include="src\ch02_ex03_func.cc" />
+    <ClCompile Include="src\ch02_ex04_age.cc" />
+    <ClCompile Include="src\ch02_ex05_celsius2fahrenheit.cc" />
+    <ClCompile Include="src\ch02_ex06_lightyear2astronomical.cc" />
+    <ClCompile Include="src\ch02_ex07_time.cc" />
     <ClCompile Include="src\ch04_ex01_arrayone.cc" />
     <ClCompile Include="src\ch04_ex02_strings.cc" />
     <ClCompile Include="src\ch04_ex03_instr1.cc" />
