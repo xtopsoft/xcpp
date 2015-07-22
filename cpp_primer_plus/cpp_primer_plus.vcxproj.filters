@@ -27,5 +27,11 @@
     <ClCompile Include="src\ch04_ex03_instr1.cc">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="src\swift_print.cc">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ch02_ex01_myinfo.cc">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
